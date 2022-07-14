@@ -1,0 +1,11 @@
+@import 'theme.scss';
+
+.patientsBox {
+  display: flex;
+  margin-top: 43px;
+  & > * {
+    flex-grow: 1;
+    flex-basis: 0;
+  }
+  margin-bottom: 90px;
+}

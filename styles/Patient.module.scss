@@ -1,0 +1,21 @@
+
+.header {
+
+}
+
+.paragraph {
+  background: rgba(255, 255, 255, 0.7);
+  border: 2px solid #068CA6;
+  box-shadow: 0px 4px 4px rgba(6, 140, 166, 0.31);
+  border-radius: 10px;
+  padding: 18px 21px;
+  margin: 31px 0;
+}
+
+.patient + .patient{
+  margin-left: 36px;
+}
+
+.image {
+  margin-bottom: -31px;
+}
